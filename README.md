@@ -17,7 +17,7 @@ A small rendering engine for 3D and 2D built using [OpenGL](https://www.opengl.o
 - 3D objects don't have a texture class of material for textures
 - Some errors are not logged
 ## Requirements
-- C++20 compiler
+- C++20 compiler MSVC
 - CMake 3.31+
 - OpenGL
 - GLFW (`libs/glfw3.lib`)
